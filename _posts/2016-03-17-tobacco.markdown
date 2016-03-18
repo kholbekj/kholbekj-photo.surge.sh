@@ -1,0 +1,5 @@
+---
+title:  "Pretty Box"
+name: "02"
+width: 282
+---
